@@ -1,0 +1,6 @@
+__pycache__
+.vscode
+front
+node_modules
+.DS_Store
+telegram_link.py
